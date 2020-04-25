@@ -1,0 +1,15 @@
+body {
+  margin: auto 0;
+  background-color:	#fbe68c;
+  text-align: center;
+}
+
+h2 {
+  font-size: 2em;
+  color: #7fc3c8;
+}
+
+p{
+  color: #91a5a1;
+  font-size: 18px;
+}
